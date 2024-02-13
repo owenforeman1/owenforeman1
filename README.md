@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning to become a full stack web developer!
-- 👯 I’m looking to collaborate on any project I have time for.
 - 📫 How to reach me: owenhtforeman@gmail.com
 - 📫 View my portfolio! https://owenforeman1.github.io/Professional-Portfolio/
 <!--
